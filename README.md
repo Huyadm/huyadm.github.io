@@ -44,9 +44,9 @@ liên hệ zalo: 0702366994
 
    </script>  
    <div>
-   <p> 250k sv8</p>
-   <div>
-   ![Screenshot_20221023-153429](https://user-images.githubusercontent.com/116290026/197388390-ec10c774-d3dc-488e-98bd-b898ea35b54b.png)
+   
+   
+
 
 
  
