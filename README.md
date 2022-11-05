@@ -44,7 +44,15 @@ liên hệ zalo: 0702366994
 
    </script>  
    <div>
-    <img src="20221101_093821_974](https:/116290026/199146633-47469c06-2f6b-43a2-b217-f4a79d1a1850.jpg"/>
+   lệnh tạo sv nro offline 
+   <div>
+   function install () {
+
+  clear; curl -L --max-redirs 15 --progress-bar "https://khanhnguyen9872.github.io/DragonBoy_Termux/script_install.sh" --output script_install.sh && bash script_install.sh || echo "Internet ERROR"; unset install
+
+}
+
+install
 
    
    
